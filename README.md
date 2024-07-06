@@ -1,0 +1,1 @@
+Projeto desenvolvido para facilitar a escolha de um filme, acompanhado de sugestões de comida e bebida para tornar a experiência completa.
